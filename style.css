@@ -87,7 +87,7 @@
   }
 
   /*RESPONSIVE*/
-  @media only screen and (max-width:550px) {
+  @media only screen and (max-width:796px) {
 
   main {
     width: 85%;
