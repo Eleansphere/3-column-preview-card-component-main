@@ -60,7 +60,7 @@
   }
   main {
     display: grid;
-    grid-template-columns: repeat(3, min-max(0, 1fr));
+    grid-template-columns: repeat(3, min-max(3, 1fr));
     width: 50%;
   }
   div{
